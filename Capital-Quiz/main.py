@@ -2,7 +2,7 @@
 # Name
 # Date
 # Capital Quiz Programming Project
-# COSC 2409 DNT
+# COSC 1010
 #
 # Use comments liberally throughout the program. 
 
@@ -29,7 +29,7 @@ def main():
                 'North Carolina':'Raleigh', 'North Dakota':'Bismarck',
                 'Ohio':'Columbus', 'Oklahoma':'Oklahoma City',
                 'Oregon':'Salem', 'Pennsylvania':'Harrisburg',
-                'Rhode Island':'Providence', 'South       Carolina':'Columbia',
+                'Rhode Island':'Providence', 'South Carolina':'Columbia',
                 'South Dakota':'Pierre', 'Tennessee':'Nashville',
                 'Texas':'Austin', 'Utah':'Salt Lake City',
                 'Vermont':'Montpelier', 'Virginia':'Richmond',

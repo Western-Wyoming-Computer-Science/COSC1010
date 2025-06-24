@@ -1,4 +1,4 @@
-# Instructions  
+# File Display Programming Project Instructions
 
 Assume a file containing a series of integers is named `numbers.txt` and exists on the computer's disk (already uploaded to the Replit environment). Write a program that displays all of the numbers in the file.
 

@@ -2,7 +2,7 @@
 # Name
 # Date
 # Bug Collector Programming Project
-# COSC 2409 DNT
+# COSC 1010
 #
 # Initialize variables for bugs and total number of bugs collected.
 

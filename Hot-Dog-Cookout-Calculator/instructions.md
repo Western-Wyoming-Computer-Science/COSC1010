@@ -1,4 +1,4 @@
-# Instructions  
+# Hot Dog Cookout Calculator Programming Project Instructions
 
 Assume hot dogs come in packages of 10, and hot dog buns come in packages of 8. Write a program that calculates the number of packages of hot dogs and the number of packages of hot dog buns needed for a cookout, with the minimum amount of leftovers. The program should ask the user for the number of people attending the cookout and the number of hot dogs each person will be given. The program should display the following details:
 

@@ -2,7 +2,7 @@
 # Name
 # Date
 # Areas of Rectangles Programming Project
-# COSC 2409 DNT
+# COSC 1010
 #
 # Local variables
 

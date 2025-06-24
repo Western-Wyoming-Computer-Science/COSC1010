@@ -2,7 +2,7 @@
 # Name
 # Date
 # Sales Prediction Programming Project
-# COSC 2409 DNT
+# COSC 1010
 #
 
 # Variables to hold the sales total and the profit
